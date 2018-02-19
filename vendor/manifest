@@ -1,0 +1,21 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "code.cloudfoundry.org/bytefmt",
+			"repository": "https://github.com/cloudfoundry/bytefmt",
+			"vcs": "git",
+			"revision": "b31f603f5e1e047fdb38584e1a922dcc5c4de5c8",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/chmduquesne/rollinghash",
+			"repository": "https://github.com/chmduquesne/rollinghash",
+			"vcs": "git",
+			"revision": "abb8cbaf9915e48ee20cae94bcd94221b61707a2",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
